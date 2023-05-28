@@ -8,6 +8,15 @@
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>0.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h2>New and Noteworthy</h2>
+<ul>
+<li>fix: window does not close when file is released somewhere outside</li>
+<li>feat: show info about update in full window</li>
+<li>feat: new about screen</li>
+</ul>
+]]>
+            </description>
             <enclosure url="FileFillet_v0.13.dmg" length="8832800" type="application/octet-stream" sparkle:edSignature="2szCwEdaVXQh+ON0P9z8SOrwVLqqMMMEewmqIg3Jg3a08zaIULKu6Nku9spcjUcQoXGK82eA5E3IsQoHqdKtBQ=="/>
         </item>
     </channel>
