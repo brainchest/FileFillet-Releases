@@ -4,8 +4,8 @@
         <title>FileFillet</title>
         <item>
             <title>0.13</title>
-            <pubDate>Mon, 29 May 2023 00:22:58 +0200</pubDate>
-            <sparkle:version>23</sparkle:version>
+            <pubDate>Sat, 03 Jun 2023 12:16:20 +0200</pubDate>
+            <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>0.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -17,7 +17,7 @@
 </ul>
 ]]>
             </description>
-            <enclosure url="FileFillet_v0.13.dmg" length="8832800" type="application/octet-stream" sparkle:edSignature="2szCwEdaVXQh+ON0P9z8SOrwVLqqMMMEewmqIg3Jg3a08zaIULKu6Nku9spcjUcQoXGK82eA5E3IsQoHqdKtBQ=="/>
+            <enclosure url="https://release.filefillet.com/FileFillet_v0.13.zip" length="3998088" type="application/octet-stream" sparkle:edSignature="rxFbdmiglMnHwZ9Pl2aKCC18YsaY8BxkjhoHWHLTLE3MuIMiEWz//l86L4U5vGSVFrsBR7w9QKYdWZd5bYQrAQ=="/>
         </item>
     </channel>
 </rss>
