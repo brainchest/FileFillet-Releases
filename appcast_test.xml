@@ -11,9 +11,7 @@
             <description><![CDATA[
 <h2>New and Noteworthy</h2>
 <ul>
-<li>fix: window does not close when file is released somewhere outside</li>
-<li>feat: show info about update in full window</li>
-<li>feat: new about screen</li>
+<li>fix: wrong dir used after removing local paths</li>
 </ul>
 ]]>
             </description>
@@ -28,7 +26,9 @@
             <description><![CDATA[
 <h2>New and Noteworthy</h2>
 <ul>
-<li>fix: wrong dir used after removing local paths</li>
+<li>fix: window does not close when file is released somewhere outside</li>
+<li>feat: show info about update in full window</li>
+<li>feat: new about screen</li>
 </ul>
 ]]>
             </description>
