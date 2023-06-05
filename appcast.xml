@@ -3,6 +3,21 @@
     <channel>
         <title>FileFillet</title>
         <item>
+            <title>0.13.1</title>
+            <pubDate>Mon, 05 Jun 2023 05:33:26 +0200</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h2>New and Noteworthy</h2>
+<ul>
+<li>fix: wrong dir used after removing local paths</li>
+</ul>
+]]>
+            </description>
+            <enclosure url="https://release.filefillet.com/FileFillet_v0.13.1.zip" length="4001576" type="application/octet-stream" sparkle:edSignature="COeay8aw4u/xU6MyVYiG0DpfLzwaI4rDtwCnD5HvtuOjA37wH0CC7nBc7i2khjMhlwOf+6T46YgKinMMIBFHAg=="/>
+        </item>
+        <item>
             <title>0.13</title>
             <pubDate>Sat, 03 Jun 2023 12:16:20 +0200</pubDate>
             <sparkle:version>24</sparkle:version>
