@@ -3,6 +3,22 @@
     <channel>
         <title>FileFillet</title>
         <item>
+            <title>0.14.1</title>
+            <pubDate>Mon, 19 Jun 2023 05:38:35 +0200</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.14.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h2>New and Noteworthy</h2>
+<ul>
+<li>fix: drop window sometimes not closed</li>
+<li>feat: reorder user paths</li>
+</ul>
+]]>
+            </description>
+            <enclosure url="https://release.filefillet.com/FileFillet_v0.14.1.zip" length="3961561" type="application/octet-stream" sparkle:edSignature="BJIxG4t4SaL4S1Vf964D+/jSC7dm2utzyqA+LYS4jQ124KNmoc+1z0BlRhrezqfu1QJoj8RNkZ0EutMyjg4zAw=="/>
+        </item>
+        <item>
             <title>0.13.1</title>
             <pubDate>Mon, 05 Jun 2023 05:33:26 +0200</pubDate>
             <sparkle:version>25</sparkle:version>
