@@ -4,8 +4,8 @@
         <title>FileFillet</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Tue, 01 Aug 2023 03:51:25 +0200</pubDate>
-            <sparkle:version>30</sparkle:version>
+            <pubDate>Tue, 01 Aug 2023 15:10:07 +0200</pubDate>
+            <sparkle:version>31</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -24,7 +24,7 @@
 </ul>
 ]]>
             </description>
-            <enclosure url="https://release.filefillet.com/FileFillet_v1.0.0.zip" length="21090345" type="application/octet-stream" sparkle:edSignature="NC4JcHXCNtrCqZZzOosOsZZ0u9K/mxnGsVmv/UztV7JgvBHIejTTzOe8tKTqnRM/epwQLHdi77N3AkgD7bmZAQ=="/>
+            <enclosure url="https://release.filefillet.com/FileFillet_v1.0.0.zip" length="21090391" type="application/octet-stream" sparkle:edSignature="WXli6Hu1t9yeWjfG5kawvxJE+V/aCFrjdJK07tPKYBQZYt9g0efsLrR6d+jVW6vgZcylhhZk/taxTZO5ZR9PAQ=="/>
         </item>
         <item>
             <title>0.14.1</title>
