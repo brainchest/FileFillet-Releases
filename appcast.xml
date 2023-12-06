@@ -3,6 +3,40 @@
     <channel>
         <title>FileFillet</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Wed, 06 Dec 2023 17:49:13 +0100</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h2>v1.1.0</h2>
+<ul>
+<li>feat: update of info dialog</li>
+<li>fix: settings view cannot be opened on macOS 14 Sonoma</li>
+<li>chore: reduce update check frequency</li>
+</ul>
+<h2>v1.0.1</h2>
+<ul>
+<li>fix: tab vanishes after open, then close the panel manually</li>
+</ul>
+<h2>v1.0.0</h2>
+<ul>
+<li>feat: allow to change tab highlight color (pro)</li>
+<li>feat: allow to change the tab size (pro)</li>
+<li>feat: allow to change panel opacity (pro)</li>
+<li>feat: allow to switch between compact panel and full panel (pro)</li>
+<li>feat: quick access to settings in panel</li>
+<li>feat: launch at login</li>
+<li>feat: welcome screen with tutorial videos</li>
+<li>fix: option key to copy files not detected properly</li>
+<li>fix: copy icon not shown on panel favorites</li>
+<li>fix: open favorite directory opens parent with favorite selected</li>
+</ul>
+]]>
+            </description>
+            <enclosure url="https://release.filefillet.com/FileFillet_v1.1.0.zip" length="21214219" type="application/octet-stream" sparkle:edSignature="jnJ9/5b7yRWTS8H5hPWApQDbyR47/CODBIB9QYYW7cq5d9WykZbFDheJMEdNY/D6cVEOKxtRd65Upl0duchiAQ=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Thu, 03 Aug 2023 04:17:35 +0200</pubDate>
             <sparkle:version>33</sparkle:version>
@@ -25,8 +59,7 @@
 <li>fix: option key to copy files not detected properly</li>
 <li>fix: copy icon not shown on panel favorites</li>
 <li>fix: open favorite directory opens parent with favorite selected</li>
-</ul>
-]]>
+</ul>]]>
             </description>
             <enclosure url="https://release.filefillet.com/FileFillet_v1.0.1.zip" length="21087878" type="application/octet-stream" sparkle:edSignature="Wiuh9OeL1Q64iofqc7mvesetxcbxGX8dH+HiLK8TN8aS+RZmjYko35ExrKupeNehstdCWKnD80LL/HuijMHrBw=="/>
         </item>
@@ -60,14 +93,6 @@
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>0.14.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>New and Noteworthy</h2>
-<ul>
-<li>fix: drop window sometimes not closed</li>
-<li>feat: reorder user paths</li>
-</ul>
-]]>
-            </description>
             <enclosure url="https://release.filefillet.com/FileFillet_v0.14.1.zip" length="3961561" type="application/octet-stream" sparkle:edSignature="BJIxG4t4SaL4S1Vf964D+/jSC7dm2utzyqA+LYS4jQ124KNmoc+1z0BlRhrezqfu1QJoj8RNkZ0EutMyjg4zAw=="/>
         </item>
         <item>
@@ -76,13 +101,6 @@
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>New and Noteworthy</h2>
-<ul>
-<li>fix: wrong dir used after removing local paths</li>
-</ul>
-]]>
-            </description>
             <enclosure url="https://release.filefillet.com/FileFillet_v0.13.1.zip" length="4001576" type="application/octet-stream" sparkle:edSignature="COeay8aw4u/xU6MyVYiG0DpfLzwaI4rDtwCnD5HvtuOjA37wH0CC7nBc7i2khjMhlwOf+6T46YgKinMMIBFHAg=="/>
         </item>
         <item>
@@ -91,15 +109,6 @@
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>0.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>New and Noteworthy</h2>
-<ul>
-<li>fix: window does not close when file is released somewhere outside</li>
-<li>feat: show info about update in full window</li>
-<li>feat: new about screen</li>
-</ul>
-]]>
-            </description>
             <enclosure url="https://release.filefillet.com/FileFillet_v0.13.zip" length="3998088" type="application/octet-stream" sparkle:edSignature="rxFbdmiglMnHwZ9Pl2aKCC18YsaY8BxkjhoHWHLTLE3MuIMiEWz//l86L4U5vGSVFrsBR7w9QKYdWZd5bYQrAQ=="/>
         </item>
     </channel>
