@@ -59,8 +59,7 @@
 <li>fix: option key to copy files not detected properly</li>
 <li>fix: copy icon not shown on panel favorites</li>
 <li>fix: open favorite directory opens parent with favorite selected</li>
-</ul>
-]]>
+</ul>]]>
             </description>
             <enclosure url="https://release.filefillet.com/FileFillet_v1.0.1.zip" length="21087878" type="application/octet-stream" sparkle:edSignature="Wiuh9OeL1Q64iofqc7mvesetxcbxGX8dH+HiLK8TN8aS+RZmjYko35ExrKupeNehstdCWKnD80LL/HuijMHrBw=="/>
         </item>
@@ -94,14 +93,6 @@
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>0.14.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>New and Noteworthy</h2>
-<ul>
-<li>fix: drop window sometimes not closed</li>
-<li>feat: reorder user paths</li>
-</ul>
-]]>
-            </description>
             <enclosure url="https://release.filefillet.com/FileFillet_v0.14.1.zip" length="3961561" type="application/octet-stream" sparkle:edSignature="BJIxG4t4SaL4S1Vf964D+/jSC7dm2utzyqA+LYS4jQ124KNmoc+1z0BlRhrezqfu1QJoj8RNkZ0EutMyjg4zAw=="/>
         </item>
         <item>
@@ -110,13 +101,6 @@
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>New and Noteworthy</h2>
-<ul>
-<li>fix: wrong dir used after removing local paths</li>
-</ul>
-]]>
-            </description>
             <enclosure url="https://release.filefillet.com/FileFillet_v0.13.1.zip" length="4001576" type="application/octet-stream" sparkle:edSignature="COeay8aw4u/xU6MyVYiG0DpfLzwaI4rDtwCnD5HvtuOjA37wH0CC7nBc7i2khjMhlwOf+6T46YgKinMMIBFHAg=="/>
         </item>
         <item>
@@ -125,15 +109,6 @@
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>0.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>New and Noteworthy</h2>
-<ul>
-<li>fix: window does not close when file is released somewhere outside</li>
-<li>feat: show info about update in full window</li>
-<li>feat: new about screen</li>
-</ul>
-]]>
-            </description>
             <enclosure url="https://release.filefillet.com/FileFillet_v0.13.zip" length="3998088" type="application/octet-stream" sparkle:edSignature="rxFbdmiglMnHwZ9Pl2aKCC18YsaY8BxkjhoHWHLTLE3MuIMiEWz//l86L4U5vGSVFrsBR7w9QKYdWZd5bYQrAQ=="/>
         </item>
     </channel>
