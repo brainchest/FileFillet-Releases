@@ -3,6 +3,50 @@
     <channel>
         <title>FileFillet</title>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Wed, 12 Jun 2024 04:53:59 +0200</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h2>v1.3.0</h2>
+<ul>
+<li>fix: FileFillet won't start on macOS 13 in some cases</li>
+</ul>
+<h2>v1.2.0</h2>
+<ul>
+<li>feat: allow to change the tab width (pro)</li>
+<li>feat: allow to turn off subdirectories popup</li>
+<li>fix: tab position does not update when external display is attached</li>
+<li>chore: added more logs to debug customer issues</li>
+</ul>
+<h2>v1.1.0</h2>
+<ul>
+<li>feat: update of info dialog</li>
+<li>fix: settings view cannot be opened on macOS 14 Sonoma</li>
+<li>chore: reduce update check frequency</li>
+</ul>
+<h2>v1.0.1</h2>
+<ul>
+<li>fix: tab vanishes after open, then close the panel manually</li>
+</ul>
+<h2>v1.0.0</h2>
+<ul>
+<li>feat: allow to change tab highlight color (pro)</li>
+<li>feat: allow to change the tab size (pro)</li>
+<li>feat: allow to change panel opacity (pro)</li>
+<li>feat: allow to switch between compact panel and full panel (pro)</li>
+<li>feat: quick access to settings in panel</li>
+<li>feat: launch at login</li>
+<li>feat: welcome screen with tutorial videos</li>
+<li>fix: option key to copy files not detected properly</li>
+<li>fix: copy icon not shown on panel favorites</li>
+<li>fix: open favorite directory opens parent with favorite selected</li>
+</ul>
+]]></description>
+            <enclosure url="https://release.filefillet.com/FileFillet_v1.3.0.zip" length="21227719" type="application/octet-stream" sparkle:edSignature="M/odgT2k7D424fwWWwMgPUpxDfKv1Ymcd36FMsoo9dNe5tQHPmRMQ5RiMv4rJHl6R1vwNFSDIEW+w3IqwbDbBA=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Thu, 14 Dec 2023 07:48:26 +0100</pubDate>
             <sparkle:version>35</sparkle:version>
@@ -74,32 +118,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://release.filefillet.com/FileFillet_v1.1.0.zip" length="21214219" type="application/octet-stream" sparkle:edSignature="jnJ9/5b7yRWTS8H5hPWApQDbyR47/CODBIB9QYYW7cq5d9WykZbFDheJMEdNY/D6cVEOKxtRd65Upl0duchiAQ=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Thu, 03 Aug 2023 04:17:35 +0200</pubDate>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>v1.0.1</h2>
-<ul>
-<li>fix: tab vanishes after open, then close the panel manually</li>
-</ul>
-<h2>v1.0.0</h2>
-<ul>
-<li>feat: allow to change tab highlight color (pro)</li>
-<li>feat: allow to change the tab size (pro)</li>
-<li>feat: allow to change panel opacity (pro)</li>
-<li>feat: allow to switch between compact panel and full panel (pro)</li>
-<li>feat: quick access to settings in panel</li>
-<li>feat: launch at login</li>
-<li>feat: welcome screen with tutorial videos</li>
-<li>fix: option key to copy files not detected properly</li>
-<li>fix: copy icon not shown on panel favorites</li>
-<li>fix: open favorite directory opens parent with favorite selected</li>
-</ul>]]></description>
-            <enclosure url="https://release.filefillet.com/FileFillet_v1.0.1.zip" length="21087878" type="application/octet-stream" sparkle:edSignature="Wiuh9OeL1Q64iofqc7mvesetxcbxGX8dH+HiLK8TN8aS+RZmjYko35ExrKupeNehstdCWKnD80LL/HuijMHrBw=="/>
         </item>
         <item>
             <title>0.14.1</title>
