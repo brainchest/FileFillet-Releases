@@ -3,6 +3,23 @@
     <channel>
         <title>FileFillet</title>
         <item>
+            <title>2.0.0</title>
+            <pubDate>Thu, 01 Aug 2024 06:40:37 +0200</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h2>v2.0.0</h2>
+<ul>
+<li>feat: Grid layout to place favorites</li>
+<li>feat: Favorites in different sizes</li>
+<li>feat: Show panel constantly and even pin it to stay on top</li>
+<li>feat: Hold ctrl key to open the panel while dragging files</li>
+</ul>
+]]></description>
+            <enclosure url="https://release.filefillet.com/FileFillet_v2.0.0.zip" length="6402221" type="application/octet-stream" sparkle:edSignature="WI7C+aG+IQVnt2j9ZxV8+EDwDRFOkkubYUpyxqh79h3aFiUl7/53Br1w/JonpZC29OLGaVKdlcmAEtjgvOkPDw=="/>
+        </item>
+        <item>
             <title>1.3.0</title>
             <pubDate>Mon, 24 Jun 2024 04:27:05 +0200</pubDate>
             <sparkle:version>36</sparkle:version>
