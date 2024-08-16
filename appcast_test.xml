@@ -16,6 +16,13 @@
 <li>fix: Panel always shows up at center location</li>
 <li>fix: 4th tile cannot be readded</li>
 </ul>
+<h2>v2.0.0</h2>
+<ul>
+<li>feat: Grid layout to place favorites</li>
+<li>feat: Favorites in different sizes</li>
+<li>feat: Show panel constantly and even pin it to stay on top</li>
+<li>feat: Hold ctrl key to open the panel while dragging files</li>
+</ul>
 ]]></description>
             <enclosure url="https://release.filefillet.com/FileFillet_v2.0.1.zip" length="6431671" type="application/octet-stream" sparkle:edSignature="GLmrZBr4jlShAoMCkCNQCBV4VKlZ/iSBitoYfrpS5+4YicJQP7jheeA78PZgBy3cls1DGyJmP+RobHvEcD9+CQ=="/>
         </item>
