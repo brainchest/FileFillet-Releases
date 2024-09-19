@@ -3,14 +3,14 @@
     <channel>
         <title>FileFillet</title>
         <item>
-            <title>2.1.0_beta</title>
+            <title>2.1.0</title>
             <pubDate>Thu, 19 Sep 2024 22:54:59 +0200</pubDate>
             <sparkle:channel>beta</sparkle:channel>
             <sparkle:version>48</sparkle:version>
             <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-<h2>v2.1.0</h2>
+<h2>v2.1.0_beta</h2>
 <ul>
 <li>feat: support for network drives/external storages</li>
 <li>feat: beta channel (non-store only)</li>
