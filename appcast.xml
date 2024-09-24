@@ -3,17 +3,20 @@
     <channel>
         <title>FileFillet</title>
         <item>
-            <title>2.1.0</title>
-            <pubDate>Fri, 20 Sep 2024 00:20:50 +0200</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>50</sparkle:version>
-            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <title>2.0.3</title>
+            <pubDate>Tue, 24 Sep 2024 15:10:29 +0200</pubDate>
+            <sparkle:version>51</sparkle:version>
+            <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
-<h2>v2.1.0_beta</h2>
+<h2>v2.0.3</h2>
 <ul>
-<li>feat: support for network drives/external storages</li>
-<li>feat: beta channel (non-store only)</li>
+<li>fix: [macOS 15] welcome view not usable</li>
+<li>fix: [macOS 15] settings always show up when the app starts</li>
+</ul>
+<h2>v2.0.2</h2>
+<ul>
+<li>feat: beta channel (enable in settings)</li>
 </ul>
 <h2>v2.0.1</h2>
 <ul>
@@ -30,7 +33,7 @@
 <li>feat: Hold ctrl key to open the panel while dragging files</li>
 </ul>
 ]]></description>
-            <enclosure url="https://release.filefillet.com/FileFillet_v2.1.0_beta.zip" length="6371897" type="application/octet-stream" sparkle:edSignature="QKz8H/mv6f+TKHq9CmazFiqn8B2j6M0g0MQ6DrTOJEVqvTmaOT8c6HUyPXC8GXu1amIrnHQnuc3YegTr34y+AA=="/>
+            <enclosure url="https://release.filefillet.com/FileFillet_v2.0.3.zip" length="6292740" type="application/octet-stream" sparkle:edSignature="vtAJIxxxnYOGq0rIey++lU9rkBaZuV0sADysUxMT05Ovbaj0qVIIry+/7fM5viFq+bVd0T6kXfWVk6sAdH91Ag=="/>
         </item>
         <item>
             <title>2.0.2</title>
@@ -83,23 +86,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://release.filefillet.com/FileFillet_v2.0.1.zip" length="6431671" type="application/octet-stream" sparkle:edSignature="GLmrZBr4jlShAoMCkCNQCBV4VKlZ/iSBitoYfrpS5+4YicJQP7jheeA78PZgBy3cls1DGyJmP+RobHvEcD9+CQ=="/>
-        </item>
-        <item>
-            <title>2.0.0</title>
-            <pubDate>Thu, 01 Aug 2024 06:40:37 +0200</pubDate>
-            <sparkle:version>46</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>v2.0.0</h2>
-<ul>
-<li>feat: Grid layout to place favorites</li>
-<li>feat: Favorites in different sizes</li>
-<li>feat: Show panel constantly and even pin it to stay on top</li>
-<li>feat: Hold ctrl key to open the panel while dragging files</li>
-</ul>
-]]></description>
-            <enclosure url="https://release.filefillet.com/FileFillet_v2.0.0.zip" length="6402221" type="application/octet-stream" sparkle:edSignature="WI7C+aG+IQVnt2j9ZxV8+EDwDRFOkkubYUpyxqh79h3aFiUl7/53Br1w/JonpZC29OLGaVKdlcmAEtjgvOkPDw=="/>
         </item>
         <item>
             <title>0.14.1</title>
