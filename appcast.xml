@@ -3,6 +3,56 @@
     <channel>
         <title>FileFillet</title>
         <item>
+            <title>2.2.0</title>
+            <pubDate>Thu, 21 Nov 2024 22:56:19 +0100</pubDate>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h2>v2.2.0</h2>
+<ul>
+<li>feat: Drag favorite folders to panel to add them instantly as new targets</li>
+<li>feat: Allow to add favorites on the welcome screen to get started faster</li>
+<li>feat: Support right click on folder to open or delete</li>
+<li>chore: Improved logging for debugging purposes</li>
+</ul>
+<h2>v2.1.0</h2>
+<ul>
+<li>feat: See progress of file transfer</li>
+<li>feat: Support for network drives/external storages</li>
+<li>feat: Beta channel (non-store only)</li>
+<li>feat: Option to disable quick access to the action panel during drag operations</li>
+<li>feat: Added option to customize the shortcut for opening the action panel</li>
+<li>feat: Roadmap to share transparency and encourage feedback</li>
+<li>fix: Sub-Directory list not sorted</li>
+</ul>
+<h2>v2.0.3</h2>
+<ul>
+<li>fix: [macOS 15] welcome view not usable</li>
+<li>fix: [macOS 15] settings always show up when the app starts</li>
+</ul>
+<h2>v2.0.2</h2>
+<ul>
+<li>feat: beta channel (enable in settings)</li>
+</ul>
+<h2>v2.0.1</h2>
+<ul>
+<li>feat: export logs for support</li>
+<li>fix: Corrected launchpad name (Store version only)</li>
+<li>fix: Panel always shows up at center location</li>
+<li>fix: 4th tile cannot be readded</li>
+</ul>
+<h2>v2.0.0</h2>
+<ul>
+<li>feat: Grid layout to place favorites</li>
+<li>feat: Favorites in different sizes</li>
+<li>feat: Show panel constantly and even pin it to stay on top</li>
+<li>feat: Hold ctrl key to open the panel while dragging files</li>
+</ul>
+]]></description>
+            <enclosure url="https://release.filefillet.com/FileFillet_v2.2.0.zip" length="6828310" type="application/octet-stream" sparkle:edSignature="Oz8odhuysV5SVe3Hnud/6QtGgJhm57oR6FT2pNNt1ok9ewM9EKBGc2PI6IXFL+VBvTrRS8MDxkJtoMAXXYwZCQ=="/>
+        </item>
+        <item>
             <title>2.1.0</title>
             <pubDate>Wed, 06 Nov 2024 01:21:25 +0100</pubDate>
             <sparkle:version>57</sparkle:version>
