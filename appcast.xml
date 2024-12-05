@@ -3,6 +3,77 @@
     <channel>
         <title>FileFillet</title>
         <item>
+            <title>2.3.2</title>
+            <pubDate>Thu, 05 Dec 2024 22:39:26 +0100</pubDate>
+            <sparkle:version>62</sparkle:version>
+            <sparkle:shortVersionString>2.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h2>v2.3.2</h2>
+<ul>
+<li>fix: Sometimes can not move files to sub-directories</li>
+</ul>
+<h2>v2.3.1</h2>
+<ul>
+<li>fix: Chime sound not played</li>
+</ul>
+<h2>v2.3.0</h2>
+<ul>
+<li>feat: Close panel with same shortcut as to open it</li>
+<li>feat: Check for updates from main menu and settings</li>
+<li>fix: Misleading wording when removing favorites</li>
+<li>fix: Panel can still be opened when hovering near disabled tab</li>
+</ul>
+<h2>v2.2.1</h2>
+<ul>
+<li>fix: Settings menu entry shown twice</li>
+<li>fix: File transfer not working for network drives</li>
+<li>fix: In rare cases, favorites lost after restart of the app</li>
+</ul>
+<h2>v2.2.0</h2>
+<ul>
+<li>feat: Drag favorite folders to panel to add them instantly as new targets</li>
+<li>feat: Allow to add favorites on the welcome screen to get started faster</li>
+<li>feat: Support right click on folder to open or delete</li>
+<li>chore: Improved logging for debugging purposes</li>
+</ul>
+<h2>v2.1.0</h2>
+<ul>
+<li>feat: See progress of file transfer</li>
+<li>feat: Support for network drives/external storages</li>
+<li>feat: Beta channel (non-store only)</li>
+<li>feat: Option to disable quick access to the action panel during drag operations</li>
+<li>feat: Added option to customize the shortcut for opening the action panel</li>
+<li>feat: Roadmap to share transparency and encourage feedback</li>
+<li>fix: Sub-Directory list not sorted</li>
+</ul>
+<h2>v2.0.3</h2>
+<ul>
+<li>fix: [macOS 15] welcome view not usable</li>
+<li>fix: [macOS 15] settings always show up when the app starts</li>
+</ul>
+<h2>v2.0.2</h2>
+<ul>
+<li>feat: beta channel (enable in settings)</li>
+</ul>
+<h2>v2.0.1</h2>
+<ul>
+<li>feat: export logs for support</li>
+<li>fix: Corrected launchpad name (Store version only)</li>
+<li>fix: Panel always shows up at center location</li>
+<li>fix: 4th tile cannot be readded</li>
+</ul>
+<h2>v2.0.0</h2>
+<ul>
+<li>feat: Grid layout to place favorites</li>
+<li>feat: Favorites in different sizes</li>
+<li>feat: Show panel constantly and even pin it to stay on top</li>
+<li>feat: Hold ctrl key to open the panel while dragging files</li>
+</ul>
+]]></description>
+            <enclosure url="https://release.filefillet.com/FileFillet_v2.3.2.zip" length="6907835" type="application/octet-stream" sparkle:edSignature="rAwynuBkZTrt+Sj62u24etg+rnqQygdsvXUFpt7kZFASFLPCimeFONJdaDs+/F7PVcvBA5n+eY0Qm7J0+0xcAQ=="/>
+        </item>
+        <item>
             <title>2.3.1</title>
             <pubDate>Thu, 05 Dec 2024 00:30:29 +0100</pubDate>
             <sparkle:version>61</sparkle:version>
@@ -131,171 +202,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://release.filefillet.com/FileFillet_v2.3.0.zip" length="6907399" type="application/octet-stream" sparkle:edSignature="xx0HSCw4aJAEq5rktj9H0Rc+clOj2h28h2ifi11KBJOsgniEV4tx3CS7bsrGN0E9DVyPAucWPbf3t5N08fSpBQ=="/>
-        </item>
-        <item>
-            <title>2.2.1</title>
-            <pubDate>Mon, 02 Dec 2024 23:52:46 +0100</pubDate>
-            <sparkle:version>59</sparkle:version>
-            <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>v2.2.1</h2>
-<ul>
-<li>fix: Settings menu entry shown twice</li>
-<li>fix: File transfer not working for network drives</li>
-<li>fix: In rare cases, favorites lost after restart of the app</li>
-</ul>
-<h2>v2.2.0</h2>
-<ul>
-<li>feat: Drag favorite folders to panel to add them instantly as new targets</li>
-<li>feat: Allow to add favorites on the welcome screen to get started faster</li>
-<li>feat: Support right click on folder to open or delete</li>
-<li>chore: Improved logging for debugging purposes</li>
-</ul>
-<h2>v2.1.0</h2>
-<ul>
-<li>feat: See progress of file transfer</li>
-<li>feat: Support for network drives/external storages</li>
-<li>feat: Beta channel (non-store only)</li>
-<li>feat: Option to disable quick access to the action panel during drag operations</li>
-<li>feat: Added option to customize the shortcut for opening the action panel</li>
-<li>feat: Roadmap to share transparency and encourage feedback</li>
-<li>fix: Sub-Directory list not sorted</li>
-</ul>
-<h2>v2.0.3</h2>
-<ul>
-<li>fix: [macOS 15] welcome view not usable</li>
-<li>fix: [macOS 15] settings always show up when the app starts</li>
-</ul>
-<h2>v2.0.2</h2>
-<ul>
-<li>feat: beta channel (enable in settings)</li>
-</ul>
-<h2>v2.0.1</h2>
-<ul>
-<li>feat: export logs for support</li>
-<li>fix: Corrected launchpad name (Store version only)</li>
-<li>fix: Panel always shows up at center location</li>
-<li>fix: 4th tile cannot be readded</li>
-</ul>
-<h2>v2.0.0</h2>
-<ul>
-<li>feat: Grid layout to place favorites</li>
-<li>feat: Favorites in different sizes</li>
-<li>feat: Show panel constantly and even pin it to stay on top</li>
-<li>feat: Hold ctrl key to open the panel while dragging files</li>
-</ul>
-]]></description>
-            <enclosure url="https://release.filefillet.com/FileFillet_v2.2.1.zip" length="6903236" type="application/octet-stream" sparkle:edSignature="GIsnK6tiA2LnqC6mIp9ubNjZ/SBCWXhoj+bpSh7CeAuZjCWXQmdb5ve3RrKaq1bTcaca5OErHIPadv5XTOyfBQ=="/>
-        </item>
-        <item>
-            <title>2.0.3</title>
-            <pubDate>Tue, 24 Sep 2024 15:10:29 +0200</pubDate>
-            <sparkle:version>51</sparkle:version>
-            <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>v2.0.3</h2>
-<ul>
-<li>fix: [macOS 15] welcome view not usable</li>
-<li>fix: [macOS 15] settings always show up when the app starts</li>
-</ul>
-<h2>v2.0.2</h2>
-<ul>
-<li>feat: beta channel (enable in settings)</li>
-</ul>
-<h2>v2.0.1</h2>
-<ul>
-<li>feat: export logs for support</li>
-<li>fix: Corrected launchpad name (Store version only)</li>
-<li>fix: Panel always shows up at center location</li>
-<li>fix: 4th tile cannot be readded</li>
-</ul>
-<h2>v2.0.0</h2>
-<ul>
-<li>feat: Grid layout to place favorites</li>
-<li>feat: Favorites in different sizes</li>
-<li>feat: Show panel constantly and even pin it to stay on top</li>
-<li>feat: Hold ctrl key to open the panel while dragging files</li>
-</ul>
-]]></description>
-            <enclosure url="https://release.filefillet.com/FileFillet_v2.0.3.zip" length="6292740" type="application/octet-stream" sparkle:edSignature="vtAJIxxxnYOGq0rIey++lU9rkBaZuV0sADysUxMT05Ovbaj0qVIIry+/7fM5viFq+bVd0T6kXfWVk6sAdH91Ag=="/>
-        </item>
-        <item>
-            <title>2.0.2</title>
-            <pubDate>Fri, 20 Sep 2024 00:02:53 +0200</pubDate>
-            <sparkle:version>49</sparkle:version>
-            <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>v2.0.2</h2>
-<ul>
-<li>feat: beta channel (enable in settings)</li>
-</ul>
-<h2>v2.0.1</h2>
-<ul>
-<li>feat: export logs for support</li>
-<li>fix: Corrected launchpad name (Store version only)</li>
-<li>fix: Panel always shows up at center location</li>
-<li>fix: 4th tile cannot be readded</li>
-</ul>
-<h2>v2.0.0</h2>
-<ul>
-<li>feat: Grid layout to place favorites</li>
-<li>feat: Favorites in different sizes</li>
-<li>feat: Show panel constantly and even pin it to stay on top</li>
-<li>feat: Hold ctrl key to open the panel while dragging files</li>
-</ul>
-]]></description>
-            <enclosure url="https://release.filefillet.com/FileFillet_v2.0.2.zip" length="6435221" type="application/octet-stream" sparkle:edSignature="24w2jsIbwK1Xe6pAeIgB243t9dRM4aji/HN7dDDOLhEcCb5P6Q+zo0BIJe6RqIZeXLGoEynMNVjYI/mpXLcfDA=="/>
-        </item>
-        <item>
-            <title>2.0.1</title>
-            <pubDate>Thu, 15 Aug 2024 05:17:06 +0200</pubDate>
-            <sparkle:version>47</sparkle:version>
-            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>v2.0.1</h2>
-<ul>
-<li>feat: export logs for support</li>
-<li>fix: Corrected launchpad name (Store version only)</li>
-<li>fix: Panel always shows up at center location</li>
-<li>fix: 4th tile cannot be readded</li>
-</ul>
-<h2>v2.0.0</h2>
-<ul>
-<li>feat: Grid layout to place favorites</li>
-<li>feat: Favorites in different sizes</li>
-<li>feat: Show panel constantly and even pin it to stay on top</li>
-<li>feat: Hold ctrl key to open the panel while dragging files</li>
-</ul>
-]]></description>
-            <enclosure url="https://release.filefillet.com/FileFillet_v2.0.1.zip" length="6431671" type="application/octet-stream" sparkle:edSignature="GLmrZBr4jlShAoMCkCNQCBV4VKlZ/iSBitoYfrpS5+4YicJQP7jheeA78PZgBy3cls1DGyJmP+RobHvEcD9+CQ=="/>
-        </item>
-        <item>
-            <title>0.14.1</title>
-            <pubDate>Mon, 19 Jun 2023 05:38:35 +0200</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>0.14.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://release.filefillet.com/FileFillet_v0.14.1.zip" length="3961561" type="application/octet-stream" sparkle:edSignature="BJIxG4t4SaL4S1Vf964D+/jSC7dm2utzyqA+LYS4jQ124KNmoc+1z0BlRhrezqfu1QJoj8RNkZ0EutMyjg4zAw=="/>
-        </item>
-        <item>
-            <title>0.13.1</title>
-            <pubDate>Mon, 05 Jun 2023 05:33:26 +0200</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://release.filefillet.com/FileFillet_v0.13.1.zip" length="4001576" type="application/octet-stream" sparkle:edSignature="COeay8aw4u/xU6MyVYiG0DpfLzwaI4rDtwCnD5HvtuOjA37wH0CC7nBc7i2khjMhlwOf+6T46YgKinMMIBFHAg=="/>
-        </item>
-        <item>
-            <title>0.13</title>
-            <pubDate>Sat, 03 Jun 2023 12:16:20 +0200</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>0.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://release.filefillet.com/FileFillet_v0.13.zip" length="3998088" type="application/octet-stream" sparkle:edSignature="rxFbdmiglMnHwZ9Pl2aKCC18YsaY8BxkjhoHWHLTLE3MuIMiEWz//l86L4U5vGSVFrsBR7w9QKYdWZd5bYQrAQ=="/>
         </item>
     </channel>
 </rss>
