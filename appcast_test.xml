@@ -9,6 +9,13 @@
             <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+<h2>v2.4.0</h2>
+<ul>
+<li>feat: Show info in case target disk size is too small</li>
+<li>fix: Empty folders are not deleted after move</li>
+<li>fix: Empty folders are not being copied</li>
+<li>fix: Sometimes can not move files to sub-directories</li>
+</ul>
 <h2>v2.3.2</h2>
 <ul>
 <li>fix: Sometimes can not move files to sub-directories</li>
