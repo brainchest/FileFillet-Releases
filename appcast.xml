@@ -3,6 +3,61 @@
     <channel>
         <title>FileFillet</title>
         <item>
+            <title>2.4.0</title>
+            <pubDate>Wed, 08 Jan 2025 08:16:02 +0100</pubDate>
+            <sparkle:version>63</sparkle:version>
+            <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h2>v2.4.0</h2>
+<ul>
+<li>feat: Show info in case target disk size is too small</li>
+<li>fix: Empty folders are not deleted after move</li>
+<li>fix: Empty folders are not being copied</li>
+<li>fix: Sometimes can not move files to sub-directories</li>
+</ul>
+<h2>v2.3.2</h2>
+<ul>
+<li>fix: Sometimes can not move files to sub-directories</li>
+</ul>
+<h2>v2.3.1</h2>
+<ul>
+<li>fix: Chime sound not played</li>
+</ul>
+<h2>v2.3.0</h2>
+<ul>
+<li>feat: Close panel with same shortcut as to open it</li>
+<li>feat: Check for updates from main menu and settings</li>
+<li>fix: Misleading wording when removing favorites</li>
+<li>fix: Panel can still be opened when hovering near disabled tab</li>
+</ul>
+<h2>v2.2.1</h2>
+<ul>
+<li>fix: Settings menu entry shown twice</li>
+<li>fix: File transfer not working for network drives</li>
+<li>fix: In rare cases, favorites lost after restart of the app</li>
+</ul>
+<h2>v2.2.0</h2>
+<ul>
+<li>feat: Drag favorite folders to panel to add them instantly as new targets</li>
+<li>feat: Allow to add favorites on the welcome screen to get started faster</li>
+<li>feat: Support right click on folder to open or delete</li>
+<li>chore: Improved logging for debugging purposes</li>
+</ul>
+<h2>v2.1.0</h2>
+<ul>
+<li>feat: See progress of file transfer</li>
+<li>feat: Support for network drives/external storages</li>
+<li>feat: Beta channel (non-store only)</li>
+<li>feat: Option to disable quick access to the action panel during drag operations</li>
+<li>feat: Added option to customize the shortcut for opening the action panel</li>
+<li>feat: Roadmap to share transparency and encourage feedback</li>
+<li>fix: Sub-Directory list not sorted</li>
+</ul>
+]]></description>
+            <enclosure url="https://release.filefillet.com/FileFillet_v2.4.0.zip" length="6659886" type="application/octet-stream" sparkle:edSignature="AYiYf8C6gA0/AT/Qe4ZqbwBTeC5sXPZcytby2c+H4/OmD01zRhgVnV4FpUAxMvoyTBoOKrzOHaxUQBweSAI6BA=="/>
+        </item>
+        <item>
             <title>2.3.2</title>
             <pubDate>Thu, 05 Dec 2024 22:39:26 +0100</pubDate>
             <sparkle:version>62</sparkle:version>
@@ -139,69 +194,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://release.filefillet.com/FileFillet_v2.3.1.zip" length="6907404" type="application/octet-stream" sparkle:edSignature="Hx+Hz2H/vhCNclpq+uiC71Z7ancQhmwP4o3bPchwh6vqfWB1bf4EImgNBqlWbcg+vrJdtHaudg4/SFiWdCvDCQ=="/>
-        </item>
-        <item>
-            <title>2.3.0</title>
-            <pubDate>Wed, 04 Dec 2024 18:28:39 +0100</pubDate>
-            <sparkle:version>60</sparkle:version>
-            <sparkle:shortVersionString>2.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h2>v2.3.0</h2>
-<ul>
-<li>feat: Close panel with same shortcut as to open it</li>
-<li>feat: Check for updates from main menu and settings</li>
-<li>fix: Misleading wording when removing favorites</li>
-<li>fix: Panel can still be opened when hovering near disabled tab</li>
-</ul>
-<h2>v2.2.1</h2>
-<ul>
-<li>fix: Settings menu entry shown twice</li>
-<li>fix: File transfer not working for network drives</li>
-<li>fix: In rare cases, favorites lost after restart of the app</li>
-</ul>
-<h2>v2.2.0</h2>
-<ul>
-<li>feat: Drag favorite folders to panel to add them instantly as new targets</li>
-<li>feat: Allow to add favorites on the welcome screen to get started faster</li>
-<li>feat: Support right click on folder to open or delete</li>
-<li>chore: Improved logging for debugging purposes</li>
-</ul>
-<h2>v2.1.0</h2>
-<ul>
-<li>feat: See progress of file transfer</li>
-<li>feat: Support for network drives/external storages</li>
-<li>feat: Beta channel (non-store only)</li>
-<li>feat: Option to disable quick access to the action panel during drag operations</li>
-<li>feat: Added option to customize the shortcut for opening the action panel</li>
-<li>feat: Roadmap to share transparency and encourage feedback</li>
-<li>fix: Sub-Directory list not sorted</li>
-</ul>
-<h2>v2.0.3</h2>
-<ul>
-<li>fix: [macOS 15] welcome view not usable</li>
-<li>fix: [macOS 15] settings always show up when the app starts</li>
-</ul>
-<h2>v2.0.2</h2>
-<ul>
-<li>feat: beta channel (enable in settings)</li>
-</ul>
-<h2>v2.0.1</h2>
-<ul>
-<li>feat: export logs for support</li>
-<li>fix: Corrected launchpad name (Store version only)</li>
-<li>fix: Panel always shows up at center location</li>
-<li>fix: 4th tile cannot be readded</li>
-</ul>
-<h2>v2.0.0</h2>
-<ul>
-<li>feat: Grid layout to place favorites</li>
-<li>feat: Favorites in different sizes</li>
-<li>feat: Show panel constantly and even pin it to stay on top</li>
-<li>feat: Hold ctrl key to open the panel while dragging files</li>
-</ul>
-]]></description>
-            <enclosure url="https://release.filefillet.com/FileFillet_v2.3.0.zip" length="6907399" type="application/octet-stream" sparkle:edSignature="xx0HSCw4aJAEq5rktj9H0Rc+clOj2h28h2ifi11KBJOsgniEV4tx3CS7bsrGN0E9DVyPAucWPbf3t5N08fSpBQ=="/>
         </item>
     </channel>
 </rss>
