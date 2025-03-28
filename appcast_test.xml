@@ -3,12 +3,27 @@
     <channel>
         <title>FileFillet</title>
         <item>
+            <title>2.5.0</title>
+            <pubDate>Thu, 27 Mar 2025 14:10:24 +0100</pubDate>
+            <sparkle:version>64</sparkle:version>
+            <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://release.filefillet.com/FileFillet_v2.5.0.zip" length="6822611" type="application/octet-stream" sparkle:edSignature="XYdIEvnGrmOEFqlpvqwv92iZzd9nXFmbvN69Ns1VA6qXYDYbHoRb/Yj7IsXuE4F8Xfly2jsMPxl1IMbhcWTPBg=="/>
+        </item>
+        <item>
             <title>2.4.0</title>
             <pubDate>Wed, 08 Jan 2025 08:16:02 +0100</pubDate>
             <sparkle:version>63</sparkle:version>
             <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
+<h2>v2.5.0</h2>
+<ul>
+<li>feat: Visual indication on success or fail of the transfer</li>
+<li>feat: Switch between 4 sets of favorites</li>
+<li>fix: Memory leak on directory list window</li>
+<li>chore: Move from free + iap to free trial + one-off purchase</li>
+</ul>
 <h2>v2.4.0</h2>
 <ul>
 <li>feat: Show info in case target disk size is too small</li>
