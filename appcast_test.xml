@@ -3,6 +3,59 @@
     <channel>
         <title>FileFillet</title>
         <item>
+            <title>2.6.1</title>
+            <pubDate>Wed, 02 Jul 2025 00:36:48 +0200</pubDate>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>2.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h2>v2.6.1</h2>
+<ul>
+<li>fix: Welcome screen always showing up when app starts in trial period</li>
+</ul>
+<h2>v2.6.0</h2>
+<ul>
+<li>feat: Paste files with ⌘V</li>
+<li>feat: New grid layout with updated tile sizes</li>
+<li>feat: Shelf to temporarily store files</li>
+<li>feat: Tile background tinting</li>
+<li>feat: Keyboard shortcuts: E to edit layout, S for settings</li>
+<li>fix: Fixed memory leak when keeping panel open</li>
+<li>chore: Added acknowledgements for open-source libraries</li>
+</ul>
+<h2>v2.5.0</h2>
+<ul>
+<li>feat: Visual indication on success or fail of the transfer</li>
+<li>feat: Switch between 4 sets of favorites</li>
+<li>fix: Memory leak on directory list window</li>
+<li>chore: Move from free + iap to free trial + one-off purchase</li>
+</ul>
+<h2>v2.4.0</h2>
+<ul>
+<li>feat: Show info in case target disk size is too small</li>
+<li>fix: Empty folders are not deleted after move</li>
+<li>fix: Empty folders are not being copied</li>
+<li>fix: Sometimes can not move files to sub-directories</li>
+</ul>
+<h2>v2.3.2</h2>
+<ul>
+<li>fix: Sometimes can not move files to sub-directories</li>
+</ul>
+<h2>v2.3.1</h2>
+<ul>
+<li>fix: Chime sound not played</li>
+</ul>
+<h2>v2.3.0</h2>
+<ul>
+<li>feat: Close panel with same shortcut as to open it</li>
+<li>feat: Check for updates from main menu and settings</li>
+<li>fix: Misleading wording when removing favorites</li>
+<li>fix: Panel can still be opened when hovering near disabled tab</li>
+</ul>
+]]></description>
+            <enclosure url="https://release.filefillet.com/FileFillet_v2.6.1.zip" length="4619051" type="application/octet-stream" sparkle:edSignature="du9MnKgjBYhJeoFgYc5NRYPjxNrouFP014obQHSychwMdaQsnSeo2gb9DYd9nt5Np6WXNB1WxlwEAwLrHcImCw=="/>
+        </item>
+        <item>
             <title>2.6.0</title>
             <pubDate>Tue, 01 Jul 2025 16:13:12 +0200</pubDate>
             <sparkle:version>65</sparkle:version>
